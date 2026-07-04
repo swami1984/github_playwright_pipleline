@@ -3,7 +3,7 @@
 
 
  //test.use({ browserName: 'webkit'});
- test.describe.configure({mode},"parallel")
+ //test.describe.configure({mode},"parallel")
  test('@Web Browser Context-Validating Error login', async ({browser})=>
  {
    
