@@ -13,7 +13,7 @@ constructor(page)
     this.ordersHistoryPage = new OrdersHistoryPage(this.page);
     this.ordersReviewPage = new OrdersReviewPage(this.page);
     this.cartPage = new CartPage(this.page); //test commit for git hub
-    this.cartPage1 = new CartPage1(this.page); //test commit for git hub
+    this.cartPage1 = new CartPage1(this.page); //test commit for git hubg
 
 
 }
